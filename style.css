@@ -2,9 +2,9 @@ body {
 	background-color: darkolivegreen;
 }
 h1 {
+	text-align: left;
 	color: beige;
 	font-family: "lucida handwriting";
-	font-size: 40px;
 }
 table {
 	color: seashell;
