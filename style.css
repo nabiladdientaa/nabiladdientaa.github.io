@@ -1,10 +1,13 @@
 body {
 	background-color: darkolivegreen;
 }
-h1 {
-	text-align: left;
+h2 {
 	color: beige;
-	font-family: "lucida handwriting";
+	font-family: "courier new";
+}
+h4 {
+	color: beige;
+	font-family: "papyrus";
 }
 table {
 	color: seashell;
