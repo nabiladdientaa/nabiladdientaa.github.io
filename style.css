@@ -1,7 +1,9 @@
 body {
 	background-color: darkolivegreen;
+	margin: 25px 50px;
 }
-h2 {
+h3 {
+	text-align: center;
 	color: beige;
 	font-family: "courier new";
 }
@@ -14,11 +16,17 @@ table {
 	font-family: "times new roman";
 	font-size: 18px;
 }
-p {
+.pandemi {
 	padding: 25px;
 	background-color: darkkhaki;
 	margin: 25px;
 	border-style: double;
 	font-family: "times new roman";
 	font-size: 16px;
+}
+.foto {
+	font-family: "times new roman";
+	font-size: 30px;
+	color: seashell;
+	font-weight: bold;
 }
